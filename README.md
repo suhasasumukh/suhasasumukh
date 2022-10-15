@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/cloudzone_in" target="blank"><img src="https://img.shields.io/twitter/follow/cloudzone_in?logo=twitter&style=for-the-badge" alt="cloudzone_in" /></a> </p>
 
-- 🔭 I’m currently working in **CloudZone**
+- 🏢 I’m currently working in **CloudZone**
 
 - 🌱 I’m currently learning **React Native**
+
+- 🔭 I'm currently working on **AI in Borad Games (Chess,Checkers) Projects**
 
 - 💬 Ask me about **Android, Java**
 
 - 📫 How to reach me **suhasasumukh@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
