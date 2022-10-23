@@ -13,7 +13,7 @@
 
 - 🔭 I'm currently working on **AI in Borad Games (Chess,Checkers) Projects**
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Android, Artificial intelligence**
 
 - 📫 How to reach me **suhasasumukh@gmail.com**
 
