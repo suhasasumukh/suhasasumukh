@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasumukh&label=Profile%20views&color=0e75b6&style=flat" alt="suhasumukh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cloudzone_in" target="blank"><img src="https://img.shields.io/twitter/follow/cloudzone_in?logo=twitter&style=for-the-badge" alt="cloudzone_in" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cloudzone_AI" target="blank"><img src="https://img.shields.io/twitter/follow/cloudzone_in?logo=twitter&style=for-the-badge" alt="cloudzone_AI" /></a> </p>
 
 - 🏢 I’m currently working in **CloudZone**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/suhasumukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suhasumukh" height="30" width="40" /></a>
-<a href="https://twitter.com/cloudzone_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudzone_in" height="30" width="40" /></a>
+<a href="https://twitter.com/cloudzone_AI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudzone_in" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14512347/suhas-sumukh"(https://stackoverflow.com/users/14512347/suhas-sumukh)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suhas sumukh" height="30" width="40" /></a>
 </p>
 
