@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasumukh&label=Profile%20views&color=0e75b6&style=flat" alt="suhasumukh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cloudzone_AI" target="blank"><img src="https://img.shields.io/twitter/follow/cloudzone_in?logo=twitter&style=for-the-badge" alt="cloudzone_AI" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cloudzone_ai" target="blank"><img src="https://img.shields.io/twitter/follow/cloudzone_ai?logo=twitter&style=for-the-badge" alt="cloudzone_ai" /></a> </p>
 
 - 🏢 I’m currently working in **CloudZone**
 
