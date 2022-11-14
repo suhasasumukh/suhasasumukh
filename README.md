@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🔭 I'm currently working on **AI in Borad Games (Chess,Checkers) Projects**
+- 🔭 I'm currently working on **AI in Borad Games (LUDO,Minesweeper) Projects**
 
 - 💬 Ask me about **Android, Artificial intelligence**
 
