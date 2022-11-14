@@ -13,7 +13,7 @@
 
 - 🔭 I'm currently working on **AI in Borad Games (LUDO,Minesweeper) Projects**
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Neural network, Android**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Neural network, Android & much more....**
 
 - 📫 How to reach me **suhasasumukh@gmail.com**
 
