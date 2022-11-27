@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🔭 I'm currently working on **AI in Borad Games (LUDO,Minesweeper) Projects**
+- 🔭 I'm currently working on **AI in Board Games (LUDO,Minesweeper) Projects**
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Neural network, Android & much more....**
 
