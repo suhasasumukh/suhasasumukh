@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cloudzone_ai" target="blank"><img src="https://img.shields.io/twitter/follow/cloudzone_ai?logo=twitter&style=for-the-badge" alt="cloudzone_ai" /></a> </p>
 
-- 🏢 I’m currently working at **CloudZone & Cohesion** 
+- 🏢 I’m currently working at **Neurifyx & Cohesion** 
 
 - 🌱 I’m currently learning **React Native**
 
