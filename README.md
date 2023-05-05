@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Neurifyx" target="blank"><img src="https://img.shields.io/twitter/follow/Neurifyx?logo=twitter&style=for-the-badge" alt="Neurifyx" /></a> </p>
 
-- 🏢 I’m currently working at **Neurifyx & Cohesion** 
+- 🏢 I’m currently working at **Neurifyx** 
 
 - 🌱 I’m currently learning **React Native**
 
