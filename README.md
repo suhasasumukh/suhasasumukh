@@ -32,4 +32,5 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=suhasumukh&theme=highcontrast&show_icons=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhasumukh&" alt="suhasumukh" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SuhasSumukh&type=png)](https://git.io/streak-stats)
+
