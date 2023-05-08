@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Any Cool Projects, Just mail me**
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Neural network, Android & much more....**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Neural network & much more....**
 
 - 📫 How to reach me **suhasasumukh@gmail.com**
 
