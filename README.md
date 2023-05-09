@@ -22,6 +22,7 @@
 <a href="https://dev.to/suhasumukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suhasasumukh" height="30" width="40" /></a>
 <a href="https://twitter.com/suhasasumukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhasasumukh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14512347/suhas-sumukh"(https://stackoverflow.com/users/14512347/suhas-sumukh)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suhas sumukh" height="30" width="40" /></a>
+<p>Discord:- SuhasSumukh#2919</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
