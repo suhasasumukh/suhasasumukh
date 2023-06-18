@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/14512347/suhas-sumukh" target="blank">
  <a href="https://g.dev/suhasasumukh" target="blank"><img align="center" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="suhasasumukh" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/14512347/suhas-sumukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suhasasumukh" height="30" width="40" /></a>
-<p>Discord:- SuhasSumukh#2919</p>
+<p>Discord:- suhasasumukh</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
