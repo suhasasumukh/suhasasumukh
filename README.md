@@ -35,5 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasasumukh&count_private=true&langs_count=7&layout=compact" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suhasasumukh&" alt="suhasasumukh" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=suhasasumukh)](https://git.io/streak-stats)
 
