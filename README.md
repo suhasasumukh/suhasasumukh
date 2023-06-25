@@ -24,7 +24,7 @@
 <a href="https://twitter.com/suhasasumukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhasasumukh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhasasumukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhasasumukh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14512347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14512347" height="30" width="40" /></a>
-<a href="https://g.dev/suhasasumukh" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWCwCJND5C3c7S2eP5GZmGrfPutvl_aEu4qUvqCkfEQ&s" alt="suhasasumukh" height="30" width="40" /></a>
+<a href="https://g.dev/suhasasumukh" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWCwCJND5C3c7S2eP5GZmGrfPutvl_aEu4qUvqCkfEQ&s" alt="suhasasumukh" height="60" width="50" /></a>
 <p>Discord: suhasasumukh</p>
 </p>
 
