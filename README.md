@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasumukh&label=Profile%20views&color=0e75b6&style=flat" alt="suhasumukh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Neurifyx" target="blank"><img src="https://img.shields.io/twitter/follow/Neurifyx?logo=twitter&style=for-the-badge" alt="Neurifyx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/suhasasumukh" target="blank"><img src="https://img.shields.io/twitter/follow/suhasasumukh?logo=twitter&style=for-the-badge" alt="suhasasumukh" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
