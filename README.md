@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Any Cool Projects, Just mail me**
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Neural network & much more....**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **suhasasumukh@gmail.com**
 
