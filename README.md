@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🔭 I'm currently working on **Neurifyx AI Product**
+- 🔭 I'm currently working on **[Neurifyx](https://neurifyx.suhassumukh.repl.co/)**
 
 - 👯 I’m looking to collaborate on **Any Cool Projects, Just mail me**
 
