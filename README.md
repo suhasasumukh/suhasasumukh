@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working on **[CodeSheets](https://codesheets.vercel.app)**
 
-- 👯 I’m looking to collaborate on **any Cool Projects, feel free to reach out via email 👇**
+- 👯 I’m looking to collaborate on **Any Cool Projects, eel free to reach out via email :D**
 
 - 📫 How to reach me **suhasasumukh@gmail.com**
 
