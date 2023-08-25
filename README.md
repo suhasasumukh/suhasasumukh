@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **any Cool Projects, feel free to reach out via email**
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **suhasasumukh@gmail.com**
+
+- 💬 Ask me about **anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
