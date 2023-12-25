@@ -2,7 +2,7 @@
  <img src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67">
 </p>-->
 <h1 align="center">Hi 👋, I'm Suhas Sumukh</h1>
-<h3 align="center">16 Year old, AI ML Eng • Frontend Developer</h3>
+<h3 align="center">16 Year old, AI/ML Eng • Founder • Web3 Builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasumukh&label=Profile%20views&color=0e75b6&style=flat" alt="suhasumukh" /> </p>
 
