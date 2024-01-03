@@ -10,11 +10,11 @@
 
 - 🔭 I'm currently working on **[GitBucks](https://www.gitbucks.com)**
 
-- 👯 I’m looking to collaborate on **Any Cool Projects, Feel free to reach out via email :D**
+- 👯 I’m looking to collaborate on **any cool projects, feel free to reach out via email :D**
 
 - 📫 How to reach me **suhasasumukh@gmail.com**
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **anything!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
