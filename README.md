@@ -10,8 +10,6 @@
 
 - 🔭 I'm currently working on **[GitBucks](https://www.gitbucks.com)**
 
-- 👯 I’m looking to collaborate on **any cool projects, feel free to reach out via email :D**
-
 - 📫 How to reach me **suhasasumukh@gmail.com**
 
 - 💬 Ask me about **anything!**
