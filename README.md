@@ -20,8 +20,7 @@
 <a href="https://linkedin.com/in/suhasasumukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhasasumukh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14512347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14512347" height="30" width="40" /></a>
 <a href="https://dev.to/suhasasumukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suhasasumukh" height="30" width="40" /></a>
-<a href="https://cal.com/suhasasumukh" target="blank"><img align="center" src="https://th.bing.com/th/id/R.a3a076e8d4a5cd0819a146e567b0d3a9?rik=pQeMk6ng4dgfYQ&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_52513.png&ehk=23Gcav0Bsq3MeNiiLUekM3b%2brzLhKdBFxNhs2Y7IpOc%3d&risl=&pid=ImgRaw&r=0" alt="suhasasumukh" height="30" width="30" /></a>
-<a href="https://hashnode.com/@suhasasumukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@suhasasumukh" height="30" width="40" /></a>
+<a href="https://cal.com/suhasasumukh" target="blank"><img align="center" src="https://cal.com/android-chrome-512x512.png" alt="suhasasumukh" height="30" width="30" /></a>
 <p>Discord: suhasasumukh</p>
 </p>
 
