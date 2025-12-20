@@ -8,8 +8,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/suhasasumukh" target="blank"><img src="https://img.shields.io/twitter/follow/suhasasumukh?logo=twitter&style=for-the-badge" alt="suhasasumukh" /></a></p> -->
 
-- currently building **[localhosthq.com](https://localhosthq.com)** & **[mocha.email](https://www.mocha.email)**
-
+- currently building **[localhosthq.com](https://localhosthq.com)**
 - drop a line **suhas@localhosthq.com**
 
 <!-- - 💬 Ask me about **anything!** -->
